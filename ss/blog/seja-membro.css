@@ -9,3 +9,13 @@ body {
 .pricing-header {
   max-width: 700px;
 }
+.btn-custom
+{
+  border-color: darkblue;
+  color: darkblue;
+  padding-top: 8px;
+}
+.btn-custom:hover
+{
+  background-color: darkblue;
+}
