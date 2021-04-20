@@ -20,6 +20,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .display-4 {
   font-size: 2.5rem;
+
 }
 @media (min-width: 768px) {
   .display-4 {
@@ -104,12 +105,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 .q
 {
-  background-image:url('../../imagens/bola3.jpeg');
- 
+  background-image:url('../../imagens/bola6.jpeg');
+  background-position: center;
+  background-size: 180px;
 }
+
 .blog-header-logo
 {
-  text-align: center;
+  text-align: right;
 }
 
 .btn-custom
